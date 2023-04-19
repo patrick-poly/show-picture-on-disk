@@ -2,6 +2,9 @@
   "macros": {
 	"Show picture on disk": {
       "class":"ShowPictureOnDisk"
+    },
+	"Open/Create form pictures folder": {
+      "class":"OpenFormPicturesFolder"
     }
   }
 }
