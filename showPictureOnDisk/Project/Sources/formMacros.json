@@ -1,0 +1,7 @@
+{
+  "macros": {
+	"Show picture on disk": {
+      "class":"ShowPictureOnDisk"
+    }
+  }
+}
